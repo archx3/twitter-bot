@@ -20,6 +20,7 @@ function verifyCredentials(cb)
       cb
    )
 }
+// https://arch-twitter-bot.herokuapp.com/ | https://git.heroku.com/arch-twitter-bot.git
 
 function sendGreeting(user)
 {
