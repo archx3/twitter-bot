@@ -1,5 +1,5 @@
 {
-  "name": "twitter-bot",
+  "name": "arch-twitter-bot",
   "version": "0.0.1",
   "dependencies": {
     "twit": "^2.2.9"
